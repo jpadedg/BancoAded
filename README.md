@@ -5,21 +5,21 @@ Projeto desenvolvido para praticar fundamentos de Java, POO, validações e inte
 
 📌 Funcionalidades
 
-Criar conta bancária com nome do titular e limite de cheque especial
+- Criar conta bancária com nome do titular e limite de cheque especial
 
-Consultar saldo atual
+- Consultar saldo atual
 
-Realizar depósitos
+- Realizar depósitos
 
-Realizar saques, considerando saldo + cheque especial
+- Realizar saques, considerando saldo + cheque especial
 
-Menu de Cheque Especial:
+- Menu de Cheque Especial:
 
-Consultar limite liberado
+- Consultar limite liberado
 
-Consultar quanto do cheque especial está sendo utilizado
+- Consultar quanto do cheque especial está sendo utilizado
 
-Ajustar limite do cheque especial (com validações)
+- Ajustar limite do cheque especial (com validações)
 
 🧠 Regras de Negócio
 
