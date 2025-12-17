@@ -51,11 +51,16 @@ src/
 
 ### Passos
 1. Abra o VS Code
-2. Selecione **File → Open Folder**
-3. Abra a pasta do projeto
-4. Abra o arquivo `App.java`
-5. Clique em **Run Java**
-6. O programa será executado no terminal
+   
+3. Selecione **File → Open Folder**
+   
+5. Abra a pasta do projeto
+
+7. Abra o arquivo `App.java`
+   
+9. Clique em **Run Java**
+    
+11. O programa será executado no terminal
 
 ---
 
