@@ -33,6 +33,7 @@ Projeto desenvolvido para praticar **fundamentos de Java, orientação a objetos
 ## 🗂️ Estrutura do Projeto
 
 src/
+
 ├── App.java
 
 └── model/
