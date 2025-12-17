@@ -67,11 +67,17 @@ src/
 ## 🖥️ Menu Principal (Exemplo)
 
 === Bem vindo ao Banco Aded ===
+
 1 - Criar conta
+
 2 - Consultar saldo
+
 3 - Depositar
+
 4 - Sacar
+
 5 - Cheque especial
+
 6 - Sair
 
 
